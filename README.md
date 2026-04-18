@@ -148,7 +148,3 @@ Checklist de progresso atual do repositorio:
 
 Status geral: projeto pronto para publicacao como trilha de estudos base em PHP.
 
-## Observacao
-
-Pastas antigas em portugues foram preservadas por compatibilidade e historico.
-A estrutura principal para novos estudos e novos commits e a estrutura em ingles.
