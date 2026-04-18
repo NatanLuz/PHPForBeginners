@@ -1,12 +1,8 @@
 # PHP for Recruits
 
-[![Portuguese](https://img.shields.io/badge/lang-Portuguese-009739)](README.md) [![English](https://img.shields.io/badge/lang-English-1E90FF)](README.en.md)
-
 Repositorio de estudos em PHP criado para documentar aprendizado real, com exemplos autorais e foco em pratica.
 
-Este projeto foi pensado para quem esta comecando e quer aprender PHP de forma objetiva, organizada e progressiva. 🚀
-
-English version: [README.en.md](README.en.md)
+Este repositorio foi pensado para quem esta comecando e quer aprender PHP de forma objetiva, organizada e progressiva. A trilha foi montada com base em aulas e estudos praticos: cada aula assistida gerou codigo, exercicio, pratica e evolucao registrada.
 
 ## 1. Metodologia de Aprendizado
 
@@ -17,7 +13,7 @@ Este repositorio segue estudo ativo:
 - repeticao e refatoracao dos exemplos para fixar a base;
 - exercicios por topico para validar entendimento.
 
-Objetivo da metodologia:
+Objetivos da metodologia:
 
 - aprender fundamentos de forma consistente;
 - entender o motivo de cada solucao;
@@ -43,79 +39,89 @@ Estrutura de exercicios por topico:
 
 Padrao de arquivos em cada topico:
 
-- exemplos com prefixo numerico: 01*, 02*, 03\_...
-- README.md local explicando o objetivo da pasta
-- exercise1.php e exercise2.php para pratica
+- exemplos com prefixo numerico: 01*, 02*, 03\_...;
+- README.md local explicando o objetivo da pasta;
+- exercise1.php e exercise2.php para pratica.
 
 ## 3. Conteudos Abordados
 
 Fundamentos ja mapeados no repositorio:
 
-- variaveis e tipos
-- constantes
-- operadores
-- arrays
-- estruturas de controle
-- loops
-- funcoes (incluindo anonymous, arrow e callable)
-- manipulacao de strings
+- variaveis e tipos;
+- constantes;
+- operadores;
+- arrays;
+- estruturas de controle;
+- loops;
+- funcoes (incluindo anonymous, arrow e callable);
+- manipulacao de strings.
 
 ## 4. Secao de Exercicios
 
 Os exercicios seguem progressao de dificuldade:
 
-- nivel 1: fixacao do conceito
-- nivel 2: aplicacao pratica
+- nivel 1: fixacao do conceito;
+- nivel 2: aplicacao pratica.
 
 Sugestao de rotina:
 
-- leia o exemplo do topico
-- tente resolver o exercicio sem consultar resposta
-- compare sua solucao com versoes anteriores e refatore
+- leia o exemplo do topico;
+- tente resolver o exercicio sem consultar resposta;
+- compare sua solucao com versoes anteriores e refatore.
 
 ## 5. Mini Projetos Sugeridos em PHP
 
-Ideias para evoluir dos exercicios para projetos pequenos: 💡
+Ideias para evoluir dos exercicios para projetos pequenos:
 
-- calculadora de IMC no terminal
-- sistema simples de cadastro de usuarios em array
-- gerador de boletim com media e status de aprovacao
-- lista de tarefas em PHP puro
-- mini sistema de estoque com funcoes reutilizaveis
-- conversor de moedas com entrada via terminal
+- calculadora de IMC no terminal;
+- sistema simples de cadastro de usuarios em array;
+- gerador de boletim com media e status de aprovacao;
+- lista de tarefas em PHP puro;
+- mini sistema de estoque com funcoes reutilizaveis;
+- conversor de moedas com entrada via terminal.
 
 ## 6. Conteudos Recomendados
 
+Para consolidar fundamentos e evoluir com consistencia, esta trilha prioriza fontes tecnicas reconhecidas e materiais praticos.
+
 Documentacao oficial:
 
+- Site oficial do PHP: [https://www.php.net/](https://www.php.net/)
 - PHP Manual: [https://www.php.net/docs.php](https://www.php.net/docs.php)
 - PHP Language Reference: [https://www.php.net/manual/en/langref.php](https://www.php.net/manual/en/langref.php)
 
-Plataformas e canais para estudo:
+Artigo introdutorio recomendado:
 
-- YouTube (canais focados em PHP e backend)
-- cursos estruturados em plataformas como Udemy
-- artigos tecnicos e desafios em comunidades de programacao
+- Guia basico de PHP (HostGator): [https://www.hostgator.com.br/blog/php-guia-basico/?gad_campaignid=22134387764](https://www.hostgator.com.br/blog/php-guia-basico/?gad_campaignid=22134387764)
 
-Boa pratica:
+Diretrizes de estudo:
 
-- priorize fontes oficiais
-- valide exemplos no seu proprio ambiente
-- documente o que aprendeu apos cada topico
+- utilizar a documentacao oficial como referencia primaria;
+- validar cada exemplo localmente e testar variacoes de entrada;
+- registrar aprendizados por topico para facilitar revisoes futuras.
 
-## 7. Proximos Passos
+## 7. Referencias de Estudo Utilizadas
+
+Os materiais abaixo foram utilizados como base principal para o desenvolvimento desta trilha, combinando fundamentos de PHP e continuidade com Laravel:
+
+- Desenvolvimento Web Moderno com PHP e MySQL (Udemy): [https://www.udemy.com/course/desenvolvimento-web-moderno-com-php-mysql/#overview](https://www.udemy.com/course/desenvolvimento-web-moderno-com-php-mysql/#overview)
+- Curso de PHP (YouTube - playlist): [https://www.youtube.com/watch?v=TfsO0BGvGn0&list=PLHz*AreHm4dlFPrCXCmd5g92860x_Pbr*](https://www.youtube.com/watch?v=TfsO0BGvGn0&list=PLHz_AreHm4dlFPrCXCmd5g92860x_Pbr_)
+- Laravel 11: Framework, Ecossistema e Projetos Web (Udemy): [https://www.udemy.com/course/laravel-11-framework-ecossistema-e-projetos-web/](https://www.udemy.com/course/laravel-11-framework-ecossistema-e-projetos-web/)
+- Curso de Laravel (YouTube): [https://www.youtube.com/watch?v=6qafpEI8lcU&t=3194s](https://www.youtube.com/watch?v=6qafpEI8lcU&t=3194s)
+
+## 8. Proximos Passos
 
 Depois de concluir esta base, trilha recomendada:
 
-- Programacao Orientada a Objetos (OOP) em PHP
-- Composer e autoload
-- PDO e banco de dados relacional
-- APIs REST com PHP
-- autenticacao e seguranca basica
-- introducao ao Laravel
-- testes automatizados (PHPUnit/Pest)
+- Programacao Orientada a Objetos (OOP) em PHP;
+- Composer e autoload;
+- PDO e banco de dados relacional;
+- APIs REST com PHP;
+- autenticacao e seguranca basica;
+- introducao ao Laravel;
+- testes automatizados (PHPUnit/Pest).
 
-## 8. Como Executar os Exemplos
+## 9. Como Executar os Exemplos
 
 Na raiz do projeto, execute arquivos PHP por topico:
 
@@ -123,7 +129,7 @@ Na raiz do projeto, execute arquivos PHP por topico:
 - php .\arrays\01_arrays_basics.php
 - php .\exercises\functions\exercise1.php
 
-## 9. Status dos Topicos
+## 10. Status dos Topicos
 
 Checklist de progresso atual do repositorio:
 
