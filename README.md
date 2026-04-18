@@ -1,7 +1,6 @@
-# PHP for Recruits
+## PHP For Beginners
 
 Repositorio de estudos em PHP criado para documentar aprendizado real, com exemplos autorais e foco em pratica.
-
 Este repositorio foi pensado para quem esta comecando e quer aprender PHP de forma objetiva, organizada e progressiva. A trilha foi montada com base em aulas e estudos praticos: cada aula assistida gerou codigo, exercicio, pratica e evolucao registrada.
 
 ## 1. Metodologia de Aprendizado
@@ -129,22 +128,4 @@ Na raiz do projeto, execute arquivos PHP por topico:
 - php .\arrays\01_arrays_basics.php
 - php .\exercises\functions\exercise1.php
 
-## 10. Status dos Topicos
-
-Checklist de progresso atual do repositorio:
-
-- [x] Fundamentos: variables, constants, arrays, strings, functions, loops, control structures
-- [x] Exercicios iniciais por topico (arrays, functions, loops)
-- [x] POO 01: classes e objetos
-- [x] POO 02: associacao
-- [x] POO 03: agregacao
-- [x] POO 04: composicao
-- [x] POO 05: encapsulamento (public, private, protected)
-- [x] POO 06: construtores
-- [x] POO 07: heranca
-- [x] POO 08: interfaces
-- [x] POO 09: abstracao
-- [x] POO 10: polimorfismo
-
-Status geral: projeto pronto para publicacao como trilha de estudos base em PHP.
 
