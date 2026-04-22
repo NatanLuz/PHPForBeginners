@@ -12,7 +12,7 @@ Este repositorio segue estudo ativo:
 - repeticao e refatoracao dos exemplos para fixar a base;
 - exercicios por topico para validar entendimento.
 
-Objetivos da metodologia:
+## Objetivos da metodologia:
 
 - aprender fundamentos de forma consistente;
 - entender o motivo de cada solucao;
@@ -30,13 +30,13 @@ Estrutura principal em ingles, padronizada com snake_case:
 - [strings](strings): tratamento de texto.
 - [variables](variables): variaveis, tipos e atribuicoes.
 
-Estrutura de exercicios por topico:
+## Estrutura de exercicios por topico:
 
 - [exercises/arrays](exercises/arrays)
 - [exercises/functions](exercises/functions)
 - [exercises/loops](exercises/loops)
 
-Padrao de arquivos em cada topico:
+## Padrao de arquivos em cada topico:
 
 - exemplos com prefixo numerico: 01*, 02*, 03\_...;
 - README.md local explicando o objetivo da pasta;
@@ -62,7 +62,7 @@ Os exercicios seguem progressao de dificuldade:
 - nivel 1: fixacao do conceito;
 - nivel 2: aplicacao pratica.
 
-Sugestao de rotina:
+## Sugestao de rotina:
 
 - leia o exemplo do topico;
 - tente resolver o exercicio sem consultar resposta;
@@ -83,17 +83,17 @@ Ideias para evoluir dos exercicios para projetos pequenos:
 
 Para consolidar fundamentos e evoluir com consistencia, esta trilha prioriza fontes tecnicas reconhecidas e materiais praticos.
 
-Documentacao oficial:
+## Documentacao oficial:
 
 - Site oficial do PHP: [https://www.php.net/](https://www.php.net/)
 - PHP Manual: [https://www.php.net/docs.php](https://www.php.net/docs.php)
 - PHP Language Reference: [https://www.php.net/manual/en/langref.php](https://www.php.net/manual/en/langref.php)
 
-Artigo introdutorio recomendado:
+## Artigo introdutorio recomendado:
 
 - Guia basico de PHP (HostGator): [https://www.hostgator.com.br/blog/php-guia-basico/?gad_campaignid=22134387764](https://www.hostgator.com.br/blog/php-guia-basico/?gad_campaignid=22134387764)
 
-Diretrizes de estudo:
+## Diretrizes de estudo:
 
 - utilizar a documentacao oficial como referencia primaria;
 - validar cada exemplo localmente e testar variacoes de entrada;
@@ -127,5 +127,3 @@ Na raiz do projeto, execute arquivos PHP por topico:
 - php .\functions\01_user_defined_functions.php
 - php .\arrays\01_arrays_basics.php
 - php .\exercises\functions\exercise1.php
-
-
