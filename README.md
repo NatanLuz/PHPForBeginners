@@ -1,7 +1,7 @@
 ## PHP For Beginners
 
-Repositorio de estudos em PHP criado para documentar aprendizado real, com exemplos autorais e foco em pratica.
-Este repositorio foi pensado para quem esta comecando e quer aprender PHP de forma objetiva, organizada e progressiva. A trilha foi montada com base em aulas e estudos praticos: cada aula assistida gerou codigo, exercicio, pratica e evolucao registrada.
+Repositório que fiz sobre os meus estudos em PHP criado para documentar aprendizado real, com exemplos autorais e foco em prática também com exercícios anexados.
+Este repositório foi pensado para quem esta começando e quer aprender PHP de forma objetiva, organizada e progressiva. A trilha foi montada com base em aulas e estudos praticos: cada aula assistida gerou codigo, exercicio, pratica e evolucao registrada.
 
 ## 1. Metodologia de Aprendizado
 
