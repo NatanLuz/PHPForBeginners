@@ -93,7 +93,7 @@ Para consolidar fundamentos e evoluir com consistencia, esta trilha prioriza fon
 
 - Guia basico de PHP (HostGator): [https://www.hostgator.com.br/blog/php-guia-basico/?gad_campaignid=22134387764](https://www.hostgator.com.br/blog/php-guia-basico/?gad_campaignid=22134387764)
 
-## Diretrizes de estudo:
+## Diretrizes de ESTUDO:
 
 - utilizar a documentacao oficial como referencia primaria;
 - validar cada exemplo localmente e testar variacoes de entrada;
