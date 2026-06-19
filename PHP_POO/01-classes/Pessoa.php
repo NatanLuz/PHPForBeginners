@@ -23,7 +23,7 @@ class Pessoa
         return $this->idade;
     }
 
-    // Setter com validacao simples para manter o objeto consistente.
+    // Setter com validacao simples para manter o objeto sempre consistente.
     public function setIdade(int $idade): void
     {
         if ($idade < 0) {
