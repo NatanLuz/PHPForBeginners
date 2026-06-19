@@ -1,7 +1,7 @@
 <?php
 
 /*
-Desafio Consolidado de Relacionamentos em POO (PHP)
+Desafio Consolidado de "Relacionamentos em POO (PHP)".
 
 Objetivo:
 - Revisar ASSOCIACAO, AGREGACAO e COMPOSICAO em um unico arquivo.
