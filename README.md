@@ -1,7 +1,6 @@
 # PHP For Beginners
 
 ![PHP](https://img.shields.io/badge/PHP-Studies-777BB4?style=flat&logo=php&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Em%20andamento-yellow?style=flat)
 ![Repository](https://img.shields.io/badge/Tipo-Reposit%C3%B3rio%20de%20estudos-blue?style=flat)
 
 ## 📖 Sobre o repositório
