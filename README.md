@@ -1,129 +1,156 @@
-## PHP For Beginners
+# PHP For Beginners
 
-Repositório que fiz sobre os meus estudos em PHP criado para documentar aprendizado real, com exemplos autorais e foco em prática também com exercícios anexados.
-Este repositório foi pensado para quem esta começando e quer aprender PHP de forma objetiva, organizada e progressiva. A trilha foi montada com base em aulas e estudos praticos: cada aula assistida gerou codigo, exercicio, pratica e evolucao registrada.
+![PHP](https://img.shields.io/badge/PHP-Studies-777BB4?style=flat&logo=php&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Em%20andamento-yellow?style=flat)
+![Repository](https://img.shields.io/badge/Tipo-Reposit%C3%B3rio%20de%20estudos-blue?style=flat)
 
-## 1. Metodologia de Aprendizado
+## 📖 Sobre o repositório
 
-Este repositorio segue estudo ativo:
+O **PHP For Beginners** é um repositório criado para documentar a evolução dos estudos de PHP.
 
-- estudo de cada conceito com leitura e pratica imediata;
-- criacao de exemplos proprios, sem copia de codigo pronto;
-- repeticao e refatoracao dos exemplos para fixar a base;
-- exercicios por topico para validar entendimento.
+Cada diretório corresponde a um assunto estudado e reúne exemplos próprios, exercícios e anotações de revisão. O conteúdo registra o aprendizado de forma progressiva e funciona como material de consulta durante o avanço na linguagem.
 
-## Objetivos da metodologia:
+Este não é um projeto de software completo nem apenas uma coleção isolada de códigos. O repositório representa uma trilha prática para construir uma base sólida em PHP antes do estudo de Laravel e do desenvolvimento de aplicações maiores.
 
-- aprender fundamentos de forma consistente;
-- entender o motivo de cada solucao;
-- construir base forte para projetos reais.
+## 🎯 Objetivos
 
-## 2. Estrutura de Pastas
+- Compreender os fundamentos da linguagem PHP;
+- registrar a evolução dos estudos de maneira organizada;
+- transformar o conteúdo das aulas em exemplos próprios;
+- praticar cada conceito imediatamente após o estudo;
+- consolidar o aprendizado por meio de exercícios;
+- revisar e refatorar códigos já escritos;
+- formar uma base técnica para Programação Orientada a Objetos, bancos de dados, APIs, testes e Laravel.
 
-Estrutura principal em ingles, padronizada com snake_case:
+## 📚 Conteúdos estudados
 
-- [arrays](arrays): manipulacao de arrays.
-- [constants](constants): constantes e configuracoes fixas.
-- [control_structures](control_structures): if, else, switch e match.
-- [loops](loops): repeticao com for, while e similares.
-- [functions](functions): definicao de funcoes, parametros e retorno.
-- [strings](strings): tratamento de texto.
-- [variables](variables): variaveis, tipos e atribuicoes.
+### Fundamentos
 
-## Estrutura de exercicios por topico:
-
-- [exercises/arrays](exercises/arrays)
-- [exercises/functions](exercises/functions)
-- [exercises/loops](exercises/loops)
-
-## Padrao de arquivos em cada topico:
-
-- exemplos com prefixo numerico: 01*, 02*, 03\_...;
-- README.md local explicando o objetivo da pasta;
-- exercise1.php e exercise2.php para pratica.
-
-## 3. Conteudos Abordados
-
-Fundamentos ja mapeados no repositorio:
-
-- variaveis e tipos;
+- Variáveis;
 - constantes;
 - operadores;
-- arrays;
+- strings.
+
+### Estruturas de dados e fluxo
+
+- Arrays;
 - estruturas de controle;
-- loops;
-- funcoes (incluindo anonymous, arrow e callable);
-- manipulacao de strings.
+- loops.
 
-## 4. Secao de Exercicios
+### Organização do código
 
-Os exercicios seguem progressao de dificuldade:
+- Funções.
 
-- nivel 1: fixacao do conceito;
-- nivel 2: aplicacao pratica.
+Cada conteúdo é acompanhado por exemplos, exercícios e revisões armazenados em seu respectivo diretório.
 
-## Sugestao de rotina:
+## 📂 Estrutura do repositório
 
-- leia o exemplo do topico;
-- tente resolver o exercicio sem consultar resposta;
-- compare sua solucao com versoes anteriores e refatore.
+Os materiais são organizados por assunto:
 
-## 5. Mini Projetos Sugeridos em PHP
+```text
+PHP-For-Beginners/
+├── arrays/
+├── constants/
+├── control_structures/
+├── functions/
+├── loops/
+├── strings/
+├── variables/
+├── exercises/
+└── README.md
+```
 
-Ideias para evoluir dos exercicios para projetos pequenos:
+Os diretórios de conteúdo possuem:
 
-- calculadora de IMC no terminal;
-- sistema simples de cadastro de usuarios em array;
-- gerador de boletim com media e status de aprovacao;
-- lista de tarefas em PHP puro;
-- mini sistema de estoque com funcoes reutilizaveis;
-- conversor de moedas com entrada via terminal.
+- Exemplos desenvolvidos durante os estudos;
+- um README próprio para documentar o assunto;
+- exercícios para praticar os conceitos.
 
-## 6. Conteudos Recomendados
+O diretório `exercises/` concentra atividades práticas organizadas de acordo com os temas estudados.
 
-Para consolidar fundamentos e evoluir com consistencia, esta trilha prioriza fontes tecnicas reconhecidas e materiais praticos.
+## 🚀 Como executar os exemplos
 
-## Documentacao oficial:
+### Pré-requisito
 
-- Site oficial do PHP: [https://www.php.net/](https://www.php.net/)
-- PHP Manual: [https://www.php.net/docs.php](https://www.php.net/docs.php)
-- PHP Language Reference: [https://www.php.net/manual/en/langref.php](https://www.php.net/manual/en/langref.php)
+É necessário ter o interpretador PHP instalado e disponível no terminal.
 
-## Artigo introdutorio recomendado:
+Para confirmar a instalação:
 
-- Guia basico de PHP (HostGator): [https://www.hostgator.com.br/blog/php-guia-basico/?gad_campaignid=22134387764](https://www.hostgator.com.br/blog/php-guia-basico/?gad_campaignid=22134387764)
+```powershell
+php --version
+```
 
-## Diretrizes de ESTUDO:
+### Execução
 
-- utilizar a documentacao oficial como referencia primaria;
-- validar cada exemplo localmente e testar variacoes de entrada;
-- registrar aprendizados por topico para facilitar revisoes futuras.
+Abra o terminal na raiz do repositório e informe ao interpretador o caminho do arquivo desejado.
 
-## 7. Referencias de Estudo Utilizadas
+Exemplo de função:
 
-Os materiais abaixo foram utilizados como base principal para o desenvolvimento desta trilha, combinando fundamentos de PHP e continuidade com Laravel:
+```powershell
+php .\functions\01_user_defined_functions.php
+```
 
-- Desenvolvimento Web Moderno com PHP e MySQL (Udemy): [https://www.udemy.com/course/desenvolvimento-web-moderno-com-php-mysql/#overview](https://www.udemy.com/course/desenvolvimento-web-moderno-com-php-mysql/#overview)
-- Curso de PHP (YouTube - playlist): [https://www.youtube.com/watch?v=TfsO0BGvGn0&list=PLHz*AreHm4dlFPrCXCmd5g92860x_Pbr*](https://www.youtube.com/watch?v=TfsO0BGvGn0&list=PLHz_AreHm4dlFPrCXCmd5g92860x_Pbr_)
-- Laravel 11: Framework, Ecossistema e Projetos Web (Udemy): [https://www.udemy.com/course/laravel-11-framework-ecossistema-e-projetos-web/](https://www.udemy.com/course/laravel-11-framework-ecossistema-e-projetos-web/)
-- Curso de Laravel (YouTube): [https://www.youtube.com/watch?v=6qafpEI8lcU&t=3194s](https://www.youtube.com/watch?v=6qafpEI8lcU&t=3194s)
+Exemplo de array:
 
-## 8. Proximos Passos
+```powershell
+php .\arrays\01_arrays_basics.php
+```
 
-Depois de concluir esta base, trilha recomendada:
+Exemplo de exercício:
 
-- Programacao Orientada a Objetos (OOP) em PHP;
-- Composer e autoload;
-- PDO e banco de dados relacional;
-- APIs REST com PHP;
-- autenticacao e seguranca basica;
-- introducao ao Laravel;
-- testes automatizados (PHPUnit/Pest).
+```powershell
+php .\exercises\functions\exercise1.php
+```
 
-## 9. Como Executar os Exemplos
+Os exemplos são executados individualmente, permitindo estudar e revisar um conceito por vez.
 
-Na raiz do projeto, execute arquivos PHP por topico:
+## 📝 Metodologia de estudo
 
-- php .\functions\01_user_defined_functions.php
-- php .\arrays\01_arrays_basics.php
-- php .\exercises\functions\exercise1.php
+A evolução do repositório segue uma abordagem prática e incremental:
+
+1. **Estudo ativo:** leitura e acompanhamento do conteúdo da aula;
+2. **criação de exemplos próprios:** reprodução do conceito com códigos diferentes dos apresentados;
+3. **prática imediata:** execução do conteúdo logo após o aprendizado;
+4. **exercícios por tópico:** aplicação do conceito em pequenos problemas;
+5. **revisão:** retorno periódico aos assuntos anteriores;
+6. **refatoração constante:** melhoria dos exemplos conforme o conhecimento evolui;
+7. **registro da evolução:** manutenção do histórico de aprendizado no próprio repositório.
+
+Essa metodologia prioriza compreensão e prática, mantendo cada etapa documentada para consultas futuras.
+
+## 💻 Mini projetos sugeridos
+
+Os seguintes mini projetos poderão ser utilizados para reunir e praticar os fundamentos estudados:
+
+- [ ] Calculadora de IMC;
+- [ ] cadastro de usuários;
+- [ ] lista de tarefas;
+- [ ] sistema de estoque;
+- [ ] conversor de moedas;
+- [ ] boletim escolar.
+
+Esses itens são sugestões de prática e não representam projetos já implementados no repositório.
+
+O roadmap registra a sequência planejada de aprendizado e poderá evoluir conforme os fundamentos forem consolidados.
+
+## 📚 Referências
+
+As principais fontes utilizadas para consulta e acompanhamento dos estudos são:
+
+- [PHP: documentação oficial](https://www.php.net/docs.php);
+- [PHP: manual da linguagem](https://www.php.net/manual/pt_BR/);
+- cursos de PHP na Udemy;
+- [Curso em Vídeo](https://www.cursoemvideo.com/);
+- [Laravel: documentação oficial](https://laravel.com/docs).
+
+## 👤 Autor
+
+**Natan Da Luz**
+
+- LinkedIn: [linkedin.com/in/natandaluz](https://www.linkedin.com/in/natandaluz/)
+- Portfólio: [portfolionatan.vercel.app](https://portfolionatan.vercel.app/)
+- E-mail: [natandaluz01@gmail.com](mailto:natandaluz01@gmail.com)
+
+## 📄 Licença
+
+Este repositório está sem uma licença definida no momento.
