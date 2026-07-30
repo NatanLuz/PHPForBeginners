@@ -5,7 +5,7 @@
 
 ## 📖 Sobre o repositório
 
-O **PHP For Beginners** é um repositório criado para documentar a evolução dos estudos de PHP.
+O **PHP For Beginners** é um repositório criado para documentar a evolução dos meus estudos de PHP.
 
 Cada diretório corresponde a um assunto estudado e reúne exemplos próprios, exercícios e anotações de revisão. O conteúdo registra o aprendizado de forma progressiva e funciona como material de consulta durante o avanço na linguagem.
 
